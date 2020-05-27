@@ -1,0 +1,15 @@
+To create a new web app project inside the Web folder, use: dotnet new webApp -o myWebApp --no-https
+The webApp parameter selects what template to use when creating your app
+The -o parameter creates a directory named myWebApp which holds your entire web app project
+The --no-https flag specifies not to enable HTTPS
+
+In the myWebApp folder, Program.cs contains the main source code
+Startup.cs contains all the settings and configurations
+The Pages folder contains some example web pages for the application
+myWebApp.csproj defines the libraries which are referenced
+
+Move into the myWebApp folder: cd myWebApp
+Start the program using: dotnet run
+Go to localhost:5000 and you'll see the web app
+The html page you are seeing is mainly from Pages/Index.cshtml and Pages/Shared/_Layout.cshtml
+If you click on Privacy, you'll be shown the Pages/Privacy.cshtml and Pages/Shared/_Layout.cshtml
