@@ -1,0 +1,3 @@
+To create a new project inside the Test folder, use: dotnet new console
+Go to Program.cs, it contains the source code which will be run first when the program starts
+Start the program using: dotnet run

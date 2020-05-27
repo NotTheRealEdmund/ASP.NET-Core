@@ -1,0 +1,13 @@
+C:\Users\edmun\OneDrive\Desktop\ASP.NET Core\Test\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\edmun\OneDrive\Desktop\ASP.NET Core\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\edmun\OneDrive\Desktop\ASP.NET Core\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\edmun\OneDrive\Desktop\ASP.NET Core\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\edmun\OneDrive\Desktop\ASP.NET Core\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\edmun\OneDrive\Desktop\ASP.NET Core\Test\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\edmun\OneDrive\Desktop\ASP.NET Core\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Users\edmun\OneDrive\Desktop\ASP.NET Core\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\edmun\OneDrive\Desktop\ASP.NET Core\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\edmun\OneDrive\Desktop\ASP.NET Core\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\edmun\OneDrive\Desktop\ASP.NET Core\Test\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\edmun\OneDrive\Desktop\ASP.NET Core\Test\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\edmun\OneDrive\Desktop\ASP.NET Core\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
