@@ -35,3 +35,4 @@ C:\Users\edmun\OneDrive\Desktop\ASP.NET Core\Portfolio\myPortfolio\obj\Debug\net
 C:\Users\edmun\OneDrive\Desktop\ASP.NET Core\Portfolio\myPortfolio\obj\Debug\netcoreapp3.1\myPortfolio.genruntimeconfig.cache
 C:\Users\edmun\OneDrive\Desktop\ASP.NET Core\Portfolio\myPortfolio\obj\Debug\netcoreapp3.1\myPortfolio.csproj.CopyComplete
 C:\Users\edmun\OneDrive\Desktop\ASP.NET Core\Portfolio\myPortfolio\obj\Debug\netcoreapp3.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\edmun\OneDrive\Desktop\ASP.NET Core\Portfolio\myPortfolio\obj\Debug\netcoreapp3.1\Razor\Pages\Project.cshtml.g.cs

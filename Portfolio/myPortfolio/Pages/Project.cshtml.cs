@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -8,11 +8,11 @@ using Microsoft.Extensions.Logging;
 
 namespace myPortfolio.Pages
 {
-    public class AboutModel : PageModel
+    public class ProjectModel : PageModel
     {
-        private readonly ILogger<AboutModel> _logger;
+        private readonly ILogger<ProjectModel> _logger;
 
-        public AboutModel(ILogger<AboutModel> logger)
+        public ProjectModel(ILogger<ProjectModel> logger)
         {
             _logger = logger;
         }

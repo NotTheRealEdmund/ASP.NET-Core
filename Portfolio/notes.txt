@@ -23,6 +23,10 @@ Contains the entry point for the program.
 Startup.cs
 Contains code that configures app behavior.
 
-Make most changes in the _Layout.cshtml file and the Index.cshtml file. If you want to use other routes, just copy and paste the
-Privacy.cshtml and Privacy.cshtml.cs files, rename them, and then change the html inside the .cshtml file, remember to 
-also change the asp-page="/Privacy" inside the _Layout.cshtml file to that of the name of the renamed file
+Make most changes in the _Layout.cshtml file and the Index.cshtml file. 
+If you want to use other routes, for example /About, 
+just copy and paste the Privacy.cshtml and Privacy.cshtml.cs files, 
+rename them to About.cshtml and About.cshtml.cs files, 
+and then change the html inside the About.cshtml file, 
+remember to also change the asp-page="/Privacy" inside the _Layout.cshtml file to asp-page="/About".
+Also, in the About.cshtml and About.cshtml.cs files, change the Models to AboutModel.
